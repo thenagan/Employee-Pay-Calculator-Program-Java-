@@ -1,8 +1,4 @@
-//Calculate Pay Program
-//Travis Henagan
-//CPT307: Data Structures & Algorithms
-//Dr. Nelson Stewart
-//April 20th 2020
+
 
 
 package PayC;
